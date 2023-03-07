@@ -6,6 +6,7 @@
 - This is a simple tool to generate a Spring Controller-Service-Repository project.
 - You can use it to generate a project with a controller, service and repository for a given name.
 - You can add to path of exacutable file in your .bashrc or .zshrc file to use it from anywhere.
+- If your subdirectories do not have any named 'controller', 'service' or 'repository' directory, then create first by hand.
 
 ## How to run
 
